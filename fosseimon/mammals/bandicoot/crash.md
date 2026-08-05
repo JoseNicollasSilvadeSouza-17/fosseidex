@@ -1,14 +1,15 @@
 ---
 # id: 0
-name: Ambulocetus
-scientificName: Ambulocetus natans
+name: Crash
+scientificName: Crash bandicoot
 origin: Real
 types:
  - Normal
+ - Rock
 status: Draft
 ---
 
-# Ambulocetus
+# Crash
 
 ## Description
 
@@ -16,4 +17,4 @@ status: Draft
 
 ## Evolution
 
-- Evolui para [[basilosaurus]]
+- Evolui de [[tingamarra]]
