@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 113
 name: Aysheaia
 scientificName: Aysheaia pedunculata
 origin: Real
@@ -15,7 +15,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[primevo]]
+
+## Evolutions
 
 - Evolui de [[marrella]]
 - Evolui para [[omnidens]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

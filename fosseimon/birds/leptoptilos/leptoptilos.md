@@ -1,10 +1,10 @@
 ---
-# id: 0
+id: 188
 name: Leptoptilos
 scientificName: Leptoptilos robustus
 origin: Real
 types:
- - Normal
+ - Flying
 status: Draft
 ---
 
@@ -14,6 +14,15 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[flying]]
+
+## Evolutions
 
 - Evolui para [[pelagornis]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

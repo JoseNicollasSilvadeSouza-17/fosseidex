@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 035
 name: Lystrosaurus
 scientificName: Lystrosaurus murrayi
 origin: Real
@@ -14,6 +14,15 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[flora]]
+
+## Evolutions
 
 - Evolui para [[jonkeria]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

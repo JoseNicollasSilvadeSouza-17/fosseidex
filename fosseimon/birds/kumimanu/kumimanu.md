@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 194
 name: Kumimanu
 scientificName: Kumimanu biceae
 origin: Real
@@ -14,6 +14,15 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[ice]]
+
+## Evolutions
 
 - Evolui para [[pachydyptes]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 143
 name: Ambulocetus
 scientificName: Ambulocetus natans
 origin: Real
@@ -14,6 +14,15 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[normal]]
+
+## Evolutions
 
 - Evolui para [[basilosaurus]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

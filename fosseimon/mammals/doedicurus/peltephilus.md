@@ -1,11 +1,11 @@
 ---
-# id: 0
+id: 029
 name: Peltephilus
-scientificName: Peltephilus ferox
-origin: Real
+scientificName: Parutaetus ferox
+origin: Fictional
 types:
  - Rock
- - Normal
+ - Earth
 status: Draft
 ---
 
@@ -15,7 +15,17 @@ status: Draft
 
 ...
 
+## Types
+
+- [[rock]]
+- [[earth]]
+
 ## Evolution
 
 - Evolui de [[fuleco]]
 - Evolui para [[doedicurus]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

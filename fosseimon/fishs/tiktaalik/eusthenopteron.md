@@ -1,10 +1,10 @@
 ---
-# id: 0
+id: 041
 name: Eusthenopteron
 scientificName: Eusthenopteron foordi
 origin: Real
 types:
- - Water
+  - Water
 status: Draft
 ---
 
@@ -14,6 +14,16 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+
+## Evolutions
 
 - Evolui para [[tiktaalik]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 115
 name: Opabinia
 scientificName: Opabinia regalis
 origin: Real
@@ -15,6 +15,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[insect]]
+
+## Evolutions
 
 - Evolui para [[tulliomonstrum]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

@@ -1,10 +1,12 @@
 ---
-# id: 0
+id: 083
 name: Albanerpetontidae
 scientificName: Albanerpetontidae
 origin: Real
 types:
  - Water
+skills:
+ - Epimorphosis
 status: Draft
 ---
 
@@ -13,3 +15,17 @@ status: Draft
 ## Description
 
 ...
+
+## Types
+
+- [[water]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]
+
+## Skills
+
+- [[epimorphosis]]

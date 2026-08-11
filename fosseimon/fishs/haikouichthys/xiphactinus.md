@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 006
 name: Xiphactinus
 scientificName: Xiphactinus audax
 origin: Real
@@ -15,6 +15,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
 
-- Evolui para [[doryaspis]]
+- [[water]]
+- [[predator]]
+
+## Evolutions
+
+- Evolui de [[doryaspis]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[superpredator]]

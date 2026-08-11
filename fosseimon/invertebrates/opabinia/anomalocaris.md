@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 117
 name: Anomalocaris
 scientificName: Anomalocaris briggsi
 origin: Real
@@ -15,6 +15,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[insect]]
+
+## Evolutions
 
 - Evolui de [[tulliomonstrum]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

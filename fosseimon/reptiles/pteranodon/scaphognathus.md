@@ -1,10 +1,10 @@
 ---
-# id: 0
+id: 017
 name: Scaphognathus
 scientificName: Pterodactylus crassirostris
 origin: Real
 types:
-  - Fly
+  - Flying
   - Normal
 status: Draft
 ---
@@ -15,6 +15,17 @@ status: Draft
 
 ...
 
+## Types
+
+- [[flying]]
+- [[normal]]
+
 ## Evolution
 
 - Evolui para [[pteranodon]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[fly]]

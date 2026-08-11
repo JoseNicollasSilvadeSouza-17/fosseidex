@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 096
 name: Megalodon
 scientificName: Otodus megalodon
 origin: Real
@@ -15,6 +15,21 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[dragon]]
+
+## Variants
+
+- Grande-Tubarão-Branco
+
+## Evolutions
 
 - Evolui de [[dracopristis]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

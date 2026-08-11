@@ -1,11 +1,11 @@
 ---
-# id: 0
+id: 030
 name: Doedicurus
 scientificName: Doedicurus clavicaudatus
 origin: Real
 types:
  - Rock
- - Normal
+ - Earth
 status: Draft
 ---
 
@@ -15,6 +15,16 @@ status: Draft
 
 ...
 
+## Types
+
+- [[rock]]
+- [[earth]]
+
 ## Evolution
 
 - Evolui de [[peltephilus]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

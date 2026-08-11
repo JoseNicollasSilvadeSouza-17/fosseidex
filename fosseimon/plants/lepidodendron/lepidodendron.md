@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 061
 name: Lepidodendron
 scientificName: Lepidodendron dichotomum
 origin: Real
@@ -14,6 +14,15 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[flora]]
+
+## Evolutions
 
 - Evolui de [[medullosa]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

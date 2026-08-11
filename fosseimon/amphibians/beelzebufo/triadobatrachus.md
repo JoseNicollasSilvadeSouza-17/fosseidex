@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 088
 name: Triadobatrachus
 scientificName: Triadobatrachus massinoti
 origin: Real
@@ -14,6 +14,15 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+
+## Evolutions
 
 - Evolui para [[beelzebufo]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

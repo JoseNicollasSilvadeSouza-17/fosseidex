@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 099
 name: Nummulites
 scientificName: Nummulites laevigatus
 origin: Real
@@ -14,6 +14,15 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[rock]]
+
+## Evolutions
 
 - Evolui de [[orbitolina]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

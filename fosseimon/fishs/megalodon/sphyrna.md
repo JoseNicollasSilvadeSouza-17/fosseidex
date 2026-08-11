@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 094
 name: Sphyrna
 scientificName: Sphyrna latidens
 origin: Real
@@ -14,6 +14,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+
+## Evolutions
 
 - Evolui para [[dracopristis]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]
+- [[hammer]]

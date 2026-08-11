@@ -1,8 +1,8 @@
 ---
-# id: 0
+id: 036
 name: Jonkeria
 scientificName: Jonkeria truculenta
-otherName:
+otherNames:
   - Jonkeria crassus
   - Jonkeria pugnax
   - Jonkeria ingens
@@ -18,7 +18,16 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[flora]]
+
+## Evolutions
 
 - Evolui de [[lystrosaurus]]
 - Evolui para [[cotylorhynchus]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

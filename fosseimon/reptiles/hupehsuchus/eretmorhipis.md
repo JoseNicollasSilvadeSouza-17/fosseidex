@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 198
 name: Eretmorhipis
 scientificName: Eretmorhipis carrolldongi
 origin: Real
@@ -15,6 +15,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[flora]]
+
+## Evolutions
 
 - Evolui de [[hupehsuchus]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

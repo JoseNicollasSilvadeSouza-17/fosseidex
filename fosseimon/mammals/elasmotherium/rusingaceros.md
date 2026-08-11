@@ -1,8 +1,9 @@
 ---
-# id: 0
+id: 124
 name: Rusingaceros
 scientificName: Rusingaceros leakey
-otherName: Dicerorhinus leakey
+otherNames: 
+ - Dicerorhinus leakey
 origin: Real
 types:
  - Rock
@@ -15,6 +16,15 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[rock]]
+
+## Evolutions
 
 - Evolui para [[coelodonta]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

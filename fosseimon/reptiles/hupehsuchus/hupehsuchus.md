@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 197
 name: Hupehsuchus
 scientificName: Hupehsuchus nanchangensis
 origin: Real
@@ -15,6 +15,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[flora]]
+
+## Evolutions
 
 - Evolui para [[eretmorhipis]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

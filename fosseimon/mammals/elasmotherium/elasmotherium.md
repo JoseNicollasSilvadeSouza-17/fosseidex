@@ -1,8 +1,8 @@
 ---
-# id: 0
+id: 126
 name: Elasmotherium
 scientificName: Elasmotherium sibiricum
-otherName: 
+otherNames: 
  - Stereoceros
  - Enigmatherium
  - Elasmotherium fischeri
@@ -20,6 +20,16 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[rock]]
+- [[ice]]
+
+## Evolutions
 
 - Evolui de [[coelodonta]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

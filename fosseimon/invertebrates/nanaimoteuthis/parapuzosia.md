@@ -1,5 +1,5 @@
 ---
-# id: 1
+id: 146
 name: Parapuzosia
 scientificName: Parapuzosia seppenradensis
 origin: Real
@@ -15,6 +15,16 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[rock]]
+
+## Evolutions
 
 - Evolui para [[orthocone]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

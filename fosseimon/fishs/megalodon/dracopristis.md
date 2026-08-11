@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 095
 name: Shark Godzilla
 scientificName: Dracopristis hoffmanorum
 origin: Real
@@ -15,7 +15,18 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[dragon]]
+
+## Evolutions
 
 - Evolui de [[sphyrna]]
 - Evolui para [[megalodon]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

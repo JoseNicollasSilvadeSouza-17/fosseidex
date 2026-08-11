@@ -1,8 +1,9 @@
 ---
-# id: 0
+id: 170
 name: Tigre-da-tasmânia
 scientificName: Thylacinus cynocephalus
-otherName: Lobo-da-tasmânia
+otherNames: 
+ - Lobo-da-tasmânia
 origin: Real
 types:
  - Dark
@@ -14,3 +15,12 @@ status: Draft
 ## Description
 
 ...
+
+## Types
+
+- [[dark]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

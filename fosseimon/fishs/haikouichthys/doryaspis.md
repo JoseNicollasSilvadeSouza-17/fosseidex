@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 005
 name: Doryaspis
 scientificName: Doryaspis nathorsti
 origin: Real
@@ -15,7 +15,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[rock]]
+
+## Evolutions
 
 - Evolui de [[haikouichthys]]
 - Evolui para [[xiphactinus]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

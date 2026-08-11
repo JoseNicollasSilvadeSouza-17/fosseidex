@@ -1,5 +1,5 @@
 ---
-# id: 4
+id: 183
 name: Hallucigenia Titan
 scientificName: Hallucigenia sparsa
 origin: Fictional
@@ -14,6 +14,16 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+
+## Evolutions
 
 - Evolui de [[hallucigenia]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[gigantification]]

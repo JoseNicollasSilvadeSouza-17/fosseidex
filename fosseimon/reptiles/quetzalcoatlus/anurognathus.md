@@ -1,10 +1,10 @@
 ---
-# id: 0
+id: 121
 name: Anurognathus
 scientificName: Anurognathus ammoni
 origin: Real
 types:
-  - Fly
+ - Flying
 status: Draft
 ---
 
@@ -14,6 +14,16 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[flying]]
+
+## Evolutions
 
 - Evolui para [[pterodaustro]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[fly]]

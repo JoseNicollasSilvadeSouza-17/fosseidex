@@ -1,11 +1,11 @@
 ---
-# id: 0
+id: 109
 name: Potanichthys
 scientificName: Potanichthys xingyiensis
 origin: Real
 types:
  - Water
- - Fly
+ - Flying
 status: Draft
 ---
 
@@ -15,6 +15,18 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[flying]]
+
+## Evolutions
 
 - Evolui para [[rhizodus]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]
+- [[fly]]

@@ -1,10 +1,10 @@
 ---
-# id: 0
+id: 052
 name: Cratoavis
 scientificName: Cratoavis cearensis
 origin: Real
 types:
- - Fly
+ - Flying
 status: Draft
 ---
 
@@ -14,6 +14,16 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[flying]]
+
+## Evolutions
 
 - Evolui para [[haast]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[fly]]

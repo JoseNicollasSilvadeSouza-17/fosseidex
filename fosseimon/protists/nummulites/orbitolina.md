@@ -1,10 +1,10 @@
 ---
-# id: 0
+id: 098
 name: Orbitolina
 scientificName: Orbulites concava
 origin: Real
 types:
- - Flora
+ - Rock
 status: Draft
 ---
 
@@ -14,7 +14,16 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[rock]]
+
+## Evolutions
 
 - Evolui de [[fusulina]]
 - Evolui para [[nummulites]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

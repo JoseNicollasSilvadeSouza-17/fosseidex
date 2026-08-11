@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 092
 name: Shringasaurus
 scientificName: Shringasaurus indicus
 origin: Real
@@ -15,6 +15,16 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[flora]]
+- [[rock]]
+
+## Evolutions
 
 - Evolui de [[dimetrodon]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

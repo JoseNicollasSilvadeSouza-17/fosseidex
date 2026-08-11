@@ -1,10 +1,9 @@
 ---
-# id: 4
+id: 068
 name: Arthropleura
 scientificName: Arthropleura armata
 origin: Real
 types:
- - Water
  - Insect
 status: Draft
 ---
@@ -14,3 +13,12 @@ status: Draft
 ## Description
 
 ...
+
+## Types
+
+- [[insect]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

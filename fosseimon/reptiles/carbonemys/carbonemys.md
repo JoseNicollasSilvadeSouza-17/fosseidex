@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 031
 name: Carbonemys
 scientificName: Carbonemys cofrinii
 origin: Real
@@ -14,6 +14,15 @@ status: Draft
 
 ...
 
+## Types
+
+- [[rock]]
+
 ## Evolution
 
 - Evolui para [[meiolania]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

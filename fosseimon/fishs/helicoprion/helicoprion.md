@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 105
 name: Helicoprion
 scientificName: Helicoprion bessonowi
 origin: Real
@@ -15,7 +15,18 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[metal]]
+
+## Evolutions
 
 - Evolui de [[edestus]]
 - Evolui para [[parahelicoprion]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

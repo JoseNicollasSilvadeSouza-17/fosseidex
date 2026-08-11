@@ -1,10 +1,10 @@
 ---
-# id: 0
+id: 189
 name: Pelagornis
 scientificName: Pelagornis sandersi
 origin: Real
 types:
- - Fly
+ - Flying
  - Water
 status: Draft
 ---
@@ -15,6 +15,16 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[flying]]
+- [[water]]
+
+## Evolutions
 
 - Evolui de [[leptoptilos]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

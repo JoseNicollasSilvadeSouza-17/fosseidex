@@ -1,11 +1,11 @@
 ---
-# id: 0
+id: 103
 name: Nessie
-scientificName: Monstro-do-lago-Ness
+scientificName: Nessiteras rhombopteryx
 origin: Fictional
 types:
-  - Water
-  - Dragon
+ - Water
+ - Dragon
 status: Draft
 ---
 
@@ -15,6 +15,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[dragon]]
+
+## Evolutions
 
 - Evolui de [[elasmosaurus]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

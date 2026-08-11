@@ -1,5 +1,5 @@
 ---
-# id: 4
+id: 184
 name: Trilobita
 scientificName: Trilobita
 origin: Real
@@ -14,3 +14,13 @@ status: Draft
 ## Description
 
 ...
+
+## Types
+
+- [[water]]
+- [[insect]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

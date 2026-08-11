@@ -1,5 +1,5 @@
 ---
-# id: 3
+id: 148
 name: Kraken
 scientificName: Nanaimoteuthis haggarti
 origin: Real
@@ -15,6 +15,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[rock]]
+
+## Evolutions
 
 - Evolui de [[orthocone]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

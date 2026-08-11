@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 171
 name: Rodrigues solitaire
 scientificName: Pezophaps solitaria
 origin: Real
@@ -14,6 +14,15 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[normal]]
+
+## Evolutions
 
 - Evolui para [[dodo]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

@@ -1,10 +1,10 @@
 ---
-# id: 0
+id: 019
 name: Aerotitan
 scientificName: Aerotitan sudamericanus
 origin: Real
 types:
-  - Fly
+  - Flying
 status: Draft
 ---
 
@@ -14,6 +14,16 @@ status: Draft
 
 ...
 
+## Types
+
+- [[flying]]
+
 ## Evolution
 
 - Evolui de [[pteranodon]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[fly]]

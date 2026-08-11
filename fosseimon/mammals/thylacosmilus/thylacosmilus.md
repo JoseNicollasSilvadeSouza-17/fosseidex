@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 191
 name: Thylacosmilus
 scientificName: Thylacosmilus atrox
 origin: Real
@@ -14,6 +14,16 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[predator]]
+
+## Evolutions
 
 - Evolui para [[eusmilus]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[superpredator]]

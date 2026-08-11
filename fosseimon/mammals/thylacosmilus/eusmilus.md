@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 190
 name: Eusmilus
 scientificName: Eusmilus bidentatus
 origin: Real
@@ -14,6 +14,15 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[predator]]
+
+## Evolutions
 
 - Evolui para [[thylacosmilus]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

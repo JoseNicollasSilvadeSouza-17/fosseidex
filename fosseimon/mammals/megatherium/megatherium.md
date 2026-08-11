@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 142
 name: Megatherium
 scientificName: Megatherium americanum
 origin: Real
@@ -15,6 +15,16 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[normal]]
+- [[flora]]
+
+## Evolutions
 
 - Evolui de [[thalassocnus]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

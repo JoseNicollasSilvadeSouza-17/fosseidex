@@ -1,11 +1,11 @@
 ---
-# id: 0
+id: 123
 name: Quetzalcoatlus
 scientificName: Quetzalcoatlus northropi
 origin: Real
 types:
-  - Fly
-  - Dragon
+ - Flying
+ - Dragon
 status: Draft
 ---
 
@@ -15,6 +15,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[flying]]
+- [[dragon]]
+
+## Evolutions
 
 - Evolui de [[pterodaustro]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[fly]]

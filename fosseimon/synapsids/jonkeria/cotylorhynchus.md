@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 037
 name: Cotylorhynchus
 scientificName: Cotylorhynchus romeri
 origin: Real
@@ -14,6 +14,15 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[flora]]
+
+## Evolutions
 
 - Evolui de [[jonkeria]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

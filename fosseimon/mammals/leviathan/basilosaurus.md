@@ -1,9 +1,10 @@
 ---
-# id: 0
+id: 144
 name: Basilosaurus
 scientificName: Basilosaurus cetoides
 origin: Real
 types:
+ - Normal
  - Water
 status: Draft
 ---
@@ -14,7 +15,18 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[normal]]
+- [[water]]
+
+## Evolutions
 
 - Evolui de [[ambulocetus]]
 - Evolui para [[leviathan]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

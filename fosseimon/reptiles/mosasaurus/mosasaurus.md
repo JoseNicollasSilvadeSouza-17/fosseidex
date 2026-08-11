@@ -1,11 +1,11 @@
 ---
-# id: 0
+id: 137
 name: Mosasaurus
 scientificName: Mosasaurus hoffmannii
 origin: Real
 types:
-  - Water
-  - Dragon
+ - Water
+ - Dragon
 status: Draft
 ---
 
@@ -15,6 +15,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[dragon]]
+
+## Evolutions
 
 - Evolui de [[cymbospondylus]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

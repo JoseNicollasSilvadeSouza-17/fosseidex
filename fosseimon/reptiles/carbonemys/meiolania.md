@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 032
 name: Meiolania
 scientificName: Meiolania platyceps
 origin: Real
@@ -14,6 +14,15 @@ status: Draft
 
 ...
 
+## Types
+
+- [[rock]]
+
 ## Evolution
 
 - Evolui de [[carbonemys]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

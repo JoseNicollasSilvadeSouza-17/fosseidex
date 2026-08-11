@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 111
 name: Dunkleosteus
 scientificName: Dunkleosteus terrelli
 origin: Real
@@ -15,6 +15,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[predator]]
+
+## Evolutions
 
 - Evolui de [[rhizodus]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

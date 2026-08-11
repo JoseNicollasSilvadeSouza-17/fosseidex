@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 114
 name: Omnidens
 scientificName: Omnidens amplus
 origin: Real
@@ -15,6 +15,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[primevo]]
+- [[predator]]
+
+## Evolutions
 
 - Evolui de [[aysheaia]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[superpredator]]

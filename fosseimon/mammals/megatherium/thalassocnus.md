@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 141
 name: Thalassocnus
 scientificName: Thalassocnus natans
 origin: Real
@@ -15,6 +15,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[normal]]
+- [[water]]
+
+## Evolutions
 
 - Evolui para [[megatherium]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

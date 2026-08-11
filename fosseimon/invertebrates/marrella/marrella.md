@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 112
 name: Marrella
 scientificName: Marrella splendens
 origin: Real
@@ -15,6 +15,16 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[primevo]]
+
+## Evolutions
 
 - Evolui para [[aysheaia]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

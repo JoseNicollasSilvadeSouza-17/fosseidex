@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 193
 name: Pachydyptes
 scientificName: Pachydyptes ponderosus
 origin: Real
@@ -14,7 +14,16 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[ice]]
+
+## Evolutions
 
 - Evolui de [[waimanu]]
 - Evolui para [[kumimanu]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

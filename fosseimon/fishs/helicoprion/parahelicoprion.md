@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 106
 name: Parahelicoprion
 scientificName: Helicoprion clerci
 origin: Real
@@ -15,6 +15,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[metal]]
+
+## Evolutions
 
 - Evolui de [[helicoprion]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

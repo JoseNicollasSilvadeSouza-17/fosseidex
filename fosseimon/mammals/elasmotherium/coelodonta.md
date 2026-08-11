@@ -1,8 +1,8 @@
 ---
-# id: 0
+id: 125
 name: Rinoceronte-lanoso
 scientificName: Coelodonta antiquitatis
-otherName:
+otherNames:
  - Rhinoceros lenenesis
  - Rhinoceros antiquitatis
  - Rhinoceros tichorhinus
@@ -19,7 +19,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[rock]]
+- [[ice]]
+
+## Evolutions
 
 - Evolui de [[rusingaceros]]
 - Evolui para [[elasmotherium]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

@@ -1,5 +1,5 @@
 ---
-# id: 4
+id: 182
 name: Hallucigenia
 scientificName: Hallucigenia sparsa
 origin: Real
@@ -14,6 +14,15 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+
+## Evolutions
 
 - Evolui para [[hallucigenia-titan]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

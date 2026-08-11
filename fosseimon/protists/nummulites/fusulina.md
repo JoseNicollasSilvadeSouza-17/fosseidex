@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 097
 name: Fusulina
 scientificName: Fusulina cylindrica
 origin: Real
@@ -14,6 +14,15 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[rock]]
+
+## Evolutions
 
 - Evolui para [[orbitolina]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

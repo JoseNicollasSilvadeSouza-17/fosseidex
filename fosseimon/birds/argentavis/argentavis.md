@@ -1,10 +1,10 @@
 ---
-# id: 0
+id: 054
 name: Argentavis
 scientificName: Argentavis magnificens
 origin: Real
 types:
- - Normal
+ - Flying
  - Predator
 status: Draft
 ---
@@ -15,6 +15,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[flying]]
+- [[predator]]
+
+## Evolutions
 
 - Evolui de [[haast]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[fly]]

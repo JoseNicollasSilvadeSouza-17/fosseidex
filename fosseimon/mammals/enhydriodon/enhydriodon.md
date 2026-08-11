@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 200
 name: Enhydriodon
 scientificName: Enhydriodon sivalensis
 origin: Real
@@ -13,3 +13,12 @@ status: Draft
 ## Description
 
 ...
+
+## Types
+
+- [[predator]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 090
 name: Edaphosaurus
 scientificName: Edaphosaurus pogonias
 origin: Real
@@ -14,6 +14,15 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[flora]]
+
+## Evolutions
 
 - Evolui para [[dimetrodon]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

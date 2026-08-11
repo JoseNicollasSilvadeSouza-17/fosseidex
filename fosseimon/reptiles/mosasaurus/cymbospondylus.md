@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 136
 name: Cymbospondylus
 scientificName: Cymbospondylus piscosus
 origin: Real
@@ -14,7 +14,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+
+## Evolutions
 
 - Evolui de [[ichthyosaurus]]
 - Evolui para [[mosasaurus]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

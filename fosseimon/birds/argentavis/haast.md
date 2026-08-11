@@ -1,10 +1,10 @@
 ---
-# id: 0
+id: 053
 name: Águia-de-haast
 scientificName: Hieraaetus moorei
 origin: Real
 types:
- - Normal
+ - Flying
  - Predator
 status: Draft
 ---
@@ -15,7 +15,18 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[flying]]
+- [[predator]]
+
+## Evolutions
 
 - Evolui de [[cratoavis]]
 - Evolui para [[argentavis]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[fly]]

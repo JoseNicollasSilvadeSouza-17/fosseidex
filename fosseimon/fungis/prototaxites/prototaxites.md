@@ -1,8 +1,8 @@
 ---
-# id: 0
+id: 062
 name: Prototaxites
 scientificName: Prototaxites loganii
-otherName:
+otherNames:
  - Nematophycus
  - Nematophyton
 origin: Real
@@ -16,3 +16,12 @@ status: Draft
 ## Description
 
 ...
+
+## Types
+
+- [[flora]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

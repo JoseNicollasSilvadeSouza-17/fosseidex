@@ -1,10 +1,10 @@
 ---
-# id: 0
+id: 185
 name: Heracles
 scientificName: Heracles inexpectatus
 origin: Real
 types:
- - Normal
+ - Flying
  - Sound
 status: Draft
 ---
@@ -14,3 +14,14 @@ status: Draft
 ## Description
 
 ...
+
+## Types
+
+- [[flying]]
+- [[sound]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[speak]]

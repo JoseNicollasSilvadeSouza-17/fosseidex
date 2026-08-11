@@ -1,10 +1,12 @@
 ---
-# id: 0
+id: 022
 name: Prionosuchus
 scientificName: Prionosuchus plummeri
 origin: Real
 types:
- - Water
+  - Water
+skills:
+  - Epimorphosis
 status: Draft
 ---
 
@@ -14,6 +16,20 @@ status: Draft
 
 ...
 
+## Types
+
+- [[water]]
+
 ## Evolution
 
 - Evolui de [[koolasuchus]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]
+
+## Skills
+
+- [[epimorphosis]]

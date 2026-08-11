@@ -1,10 +1,10 @@
 ---
-# id: 0
+id: 004
 name: Haikouichthys
 scientificName: Haikouichthys ercaicunensis
 origin: Real
 types:
- - Water
+  - Water
 status: Draft
 ---
 
@@ -14,6 +14,25 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+
+## Evolutions
 
 - Evolui para [[doryaspis]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[bubblebeam]]
+- [[water-gun]]
+- [[screech]]
+- [[hydro-pump]]
+- [[agility]]
+- [[disable]]
+- [[string-shot]]
+- [[surfing]]
+- [[confussion]]
+- [[hyper-beam]]

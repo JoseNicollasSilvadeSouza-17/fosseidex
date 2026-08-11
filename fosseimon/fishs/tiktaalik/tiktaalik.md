@@ -1,11 +1,11 @@
 ---
-# id: 0
+id: 042
 name: Tiktaalik
 scientificName: Tiktaalik roseae
 origin: Real
 types:
- - Water
- - Earth
+  - Water
+  - Earth
 status: Draft
 ---
 
@@ -15,6 +15,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[earth]]
+
+## Evolutions
 
 - Evolui de [[eusthenopteron]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

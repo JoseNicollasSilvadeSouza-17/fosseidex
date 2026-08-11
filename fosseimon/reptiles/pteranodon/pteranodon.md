@@ -1,10 +1,10 @@
 ---
-# id: 0
+id: 018
 name: Pteranodon
 scientificName: Pteranodon longiceps
 origin: Real
 types:
-  - Fly
+  - Flying
 status: Draft
 ---
 
@@ -14,7 +14,18 @@ status: Draft
 
 ...
 
+## Types
+
+- [[flying]]
+
 ## Evolution
 
 - Evolui de [[scaphognathus]]
 - Evolui para [[aerotitan]]
+
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[fly]]

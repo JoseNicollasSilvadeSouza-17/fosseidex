@@ -1,11 +1,13 @@
 ---
-# id: 0
+id: 028
 name: Fuleco
-scientificName: Parutaetus oliveirai fuleco
+scientificName: Parutaetus oliveirai fulecoi
 origin: Fictional
 types:
  - Rock
- - Normal
+ - Earth
+skills:
+ - Gol
 status: Draft
 ---
 
@@ -15,6 +17,20 @@ status: Draft
 
 ...
 
+## Types
+
+- [[rock]]
+- [[earth]]
+
 ## Evolution
 
 - Evolui para [[peltephilus]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+
+## Skills
+
+- [[gol]]

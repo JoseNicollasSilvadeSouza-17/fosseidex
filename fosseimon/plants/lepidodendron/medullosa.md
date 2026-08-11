@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 060
 name: Medullosa
 scientificName: Medullosa primaeva
 origin: Real
@@ -14,6 +14,15 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[flora]]
+
+## Evolutions
 
 - Evolui para [[lepidodendron]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

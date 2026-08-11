@@ -1,8 +1,8 @@
 ---
-# id: 0
+id: 199
 name: Atmospheric Jellyfish
 scientificName: Atmospheric Jellyfish
-otherName:
+otherNames:
  - Sky Jellyfish
  - Jellyfish UFO
 origin: Fictional
@@ -17,3 +17,12 @@ status: Draft
 ## Description
 
 ...
+
+## Types
+
+- [[atmospheric]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

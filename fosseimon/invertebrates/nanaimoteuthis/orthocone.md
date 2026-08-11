@@ -1,5 +1,5 @@
 ---
-# id: 2
+id: 147
 name: Cameroceras
 scientificName: Cameroceras trentonense
 origin: Real
@@ -15,7 +15,18 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[rock]]
+
+## Evolutions
 
 - Evolui de [[parapuzosia]]
 - Evolui para [[nanaimoteuthis]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

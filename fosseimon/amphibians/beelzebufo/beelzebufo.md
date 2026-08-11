@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 089
 name: Beelzebufo
 scientificName: Beelzebufo ampinga
 origin: Real
@@ -15,6 +15,16 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[dark]]
+
+## Evolutions
 
 - Evolui de [[triadobatrachus]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]

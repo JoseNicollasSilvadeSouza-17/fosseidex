@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 116
 name: Tullimonstrum
 scientificName: Tullimonstrum gregarium
 origin: Real
@@ -15,7 +15,18 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[insect]]
+
+## Evolutions
 
 - Evolui de [[opabinia]]
 - Evolui para [[anomalocaris]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

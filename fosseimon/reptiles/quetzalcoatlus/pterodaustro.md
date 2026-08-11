@@ -1,12 +1,13 @@
 ---
-# id: 0
+id: 122
 name: Pterodaustro
 scientificName: Pterodaustro guinazui
-otherName: Puntanipterus
+otherNames: 
+ - Puntanipterus
 origin: Real
 types:
-  - Fly
-  - Water
+ - Flying
+ - Water
 status: Draft
 ---
 
@@ -16,7 +17,18 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[flying]]
+- [[water]]
+
+## Evolutions
 
 - Evolui de [[anurognathus]]
 - Evolui para [[quetzalcoatlus]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[fly]]

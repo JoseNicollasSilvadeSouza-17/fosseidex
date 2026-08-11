@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 135
 name: Ichthyosaurus
 scientificName: Ichthyosaurus communis
 origin: Real
@@ -14,6 +14,16 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+
+## Evolutions
 
 - Evolui para [[cymbospondylus]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

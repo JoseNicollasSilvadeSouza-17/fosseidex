@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 173
 name: Ave do Terror
 scientificName: Phorusrhacos longissimus
 origin: Real
@@ -15,6 +15,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[normal]]
+- [[predator]]
+
+## Evolutions
 
 - Evolui de [[dodo]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[superpredator]]

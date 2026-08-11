@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 104
 name: Edestus
 scientificName: Edestus vorax
 origin: Real
@@ -15,6 +15,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[metal]]
+
+## Evolutions
 
 - Evolui para [[helicoprion]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]

@@ -1,5 +1,5 @@
 ---
-# id: 0
+id: 145
 name: Leviathan
 scientificName: Leviathan melvillei
 origin: Real
@@ -15,6 +15,17 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[predator]]
+
+## Evolutions
 
 - Evolui de [[basilosaurus]]
+
+## Attacks
+
+- [[perseverance]]
+- [[hope]]
+- [[surfing]]
