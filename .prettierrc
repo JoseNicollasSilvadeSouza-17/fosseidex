@@ -1,0 +1,20 @@
+{
+  "printWidth": 100,
+  "quoteProps": "as-needed",
+  "trailingComma": "all",
+  "semi": false,
+  "overrides": [
+    {
+      "files": "*.canvas",
+      "options": {
+        "parser": "json"
+      }
+    },
+    {
+      "files": "*.base",
+      "options": {
+        "parser": "yaml"
+      }
+    }
+  ]
+}
