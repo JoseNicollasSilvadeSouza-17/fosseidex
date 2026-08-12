@@ -1,5 +1,6 @@
 ---
 id: 185
+title: Heracles
 name: Heracles
 scientificName: Heracles inexpectatus
 origin: Real

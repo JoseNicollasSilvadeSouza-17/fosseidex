@@ -1,5 +1,6 @@
 ---
 id: 088
+title: Triadobatrachus
 name: Triadobatrachus
 scientificName: Triadobatrachus massinoti
 origin: Real

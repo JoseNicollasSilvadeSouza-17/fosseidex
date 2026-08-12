@@ -1,5 +1,6 @@
 ---
 id: 146
+title: Parapuzosia
 name: Parapuzosia
 scientificName: Parapuzosia seppenradensis
 origin: Real

@@ -1,5 +1,6 @@
 ---
 id: 109
+title: Potanichthys
 name: Potanichthys
 scientificName: Potanichthys xingyiensis
 origin: Real

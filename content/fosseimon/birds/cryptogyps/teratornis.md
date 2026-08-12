@@ -1,8 +1,10 @@
 ---
 # id: 0
+title: Teratornis
 name: Teratornis
 scientificName: Teratornis merriami
-otherName: Pleistogyps rex
+otherNames: 
+ - Pleistogyps rex
 origin: Real
 types:
  - Fly

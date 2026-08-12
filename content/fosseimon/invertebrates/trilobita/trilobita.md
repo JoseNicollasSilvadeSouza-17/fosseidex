@@ -1,5 +1,6 @@
 ---
 id: 184
+title: Trilobita
 name: Trilobita
 scientificName: Trilobita
 origin: Real

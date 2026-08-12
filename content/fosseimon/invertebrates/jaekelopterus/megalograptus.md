@@ -1,5 +1,6 @@
 ---
-# id: 4
+# id: 0
+title: Megalograptus
 name: Megalograptus
 scientificName: Megalograptus welchi
 origin: Real
@@ -17,4 +18,4 @@ status: Draft
 
 ## Evolution
 
-- Evolui para [[]]
+- Evolui para [[jaekelopterus]]

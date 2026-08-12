@@ -1,5 +1,6 @@
 ---
 id: 041
+title: Eusthenopteron
 name: Eusthenopteron
 scientificName: Eusthenopteron foordi
 origin: Real

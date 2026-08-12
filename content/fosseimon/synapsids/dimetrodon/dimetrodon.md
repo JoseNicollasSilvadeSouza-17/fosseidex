@@ -1,5 +1,6 @@
 ---
 id: 091
+title: Dimetrodon
 name: Dimetrodon
 scientificName: Dimetrodon limbatus
 otherNames:

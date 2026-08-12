@@ -1,5 +1,6 @@
 ---
 # id: 0
+title: Tempskya
 name: Tempskya
 scientificName: Tempskya pulchra
 origin: Real

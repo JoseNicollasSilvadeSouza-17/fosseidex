@@ -1,5 +1,6 @@
 ---
 # id: 0
+title: Moa
 name: Moa
 scientificName: Dinornis robustus
 origin: Real

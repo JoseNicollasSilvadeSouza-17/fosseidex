@@ -1,5 +1,6 @@
 ---
 # id: 0
+title: Cryptogyps
 name: Cryptogyps
 scientificName: Cryptogyps lacertosus
 origin: Real

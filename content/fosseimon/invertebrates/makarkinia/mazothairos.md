@@ -1,5 +1,6 @@
 ---
 id: 066
+title: Mazothairos
 name: Mazothairos
 scientificName: Mazothairos enormis
 origin: Real

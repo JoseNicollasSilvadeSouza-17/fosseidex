@@ -1,5 +1,6 @@
 ---
 id: 042
+title: Tiktaalik
 name: Tiktaalik
 scientificName: Tiktaalik roseae
 origin: Real

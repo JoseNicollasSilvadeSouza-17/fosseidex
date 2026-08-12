@@ -1,5 +1,6 @@
 ---
 id: 171
+title: Rodrigues solitaire
 name: Rodrigues solitaire
 scientificName: Pezophaps solitaria
 origin: Real

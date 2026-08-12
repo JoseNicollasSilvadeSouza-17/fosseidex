@@ -1,5 +1,6 @@
 ---
 id: 062
+title: Prototaxites
 name: Prototaxites
 scientificName: Prototaxites loganii
 otherNames:

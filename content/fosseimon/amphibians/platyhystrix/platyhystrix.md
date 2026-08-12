@@ -1,8 +1,9 @@
 ---
 # id: 0
+title: Platyhystrix
 name: Platyhystrix
 scientificName: Platyhystrix rugosus
-otherName:
+otherNames:
  - Zatrachys apicalis
 origin: Real
 types:

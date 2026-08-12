@@ -1,5 +1,6 @@
 ---
 # id: 0
+title: Rod Giga
 name: Rod Giga
 scientificName: Rod Giga (Gigatitan vulgaris)
 origin: Fictional

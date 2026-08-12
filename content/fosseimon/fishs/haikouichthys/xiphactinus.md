@@ -1,5 +1,6 @@
 ---
 id: 006
+title: Xiphactinus
 name: Xiphactinus
 scientificName: Xiphactinus audax
 origin: Real

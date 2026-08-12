@@ -1,5 +1,6 @@
 ---
 id: 111
+title: Dunkleosteus
 name: Dunkleosteus
 scientificName: Dunkleosteus terrelli
 origin: Real

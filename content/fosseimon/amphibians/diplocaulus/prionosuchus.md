@@ -1,5 +1,6 @@
 ---
 id: 022
+title: Prionosuchus
 name: Prionosuchus
 scientificName: Prionosuchus plummeri
 origin: Real

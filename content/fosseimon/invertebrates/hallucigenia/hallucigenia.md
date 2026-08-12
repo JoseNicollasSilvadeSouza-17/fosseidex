@@ -1,5 +1,6 @@
 ---
 id: 182
+title: Hallucigenia
 name: Hallucigenia
 scientificName: Hallucigenia sparsa
 origin: Real

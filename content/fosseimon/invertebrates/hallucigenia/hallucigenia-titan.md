@@ -1,5 +1,6 @@
 ---
 id: 183
+title: Hallucigenia Titan
 name: Hallucigenia Titan
 scientificName: Hallucigenia sparsa
 origin: Fictional

@@ -1,6 +1,6 @@
 ---
 id: 003
-# title: Dickinsonia
+title: Spriggina
 name: Spriggina
 scientificName: Spriggina floundersi
 origin: Real

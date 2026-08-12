@@ -1,5 +1,6 @@
 ---
 # id: 0
+title: Rhynia
 name: Rhynia
 scientificName: Rhynia gwynne-vaughanii
 origin: Real

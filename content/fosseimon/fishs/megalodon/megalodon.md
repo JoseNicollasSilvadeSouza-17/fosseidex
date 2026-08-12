@@ -1,5 +1,6 @@
 ---
 id: 096
+title: Megalodon
 name: Megalodon
 scientificName: Otodus megalodon
 origin: Real
@@ -22,7 +23,7 @@ status: Draft
 
 ## Variants
 
-- Grande-Tubarão-Branco
+- Oversized Great White Trope: [Artigo](https://pmc.ncbi.nlm.nih.gov/articles/PMC7616624/)
 
 ## Evolutions
 

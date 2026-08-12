@@ -1,5 +1,6 @@
 ---
 # id: 0
+title: Chuaria
 name: Chuaria
 scientificName: Chuaria circularis
 origin: Real

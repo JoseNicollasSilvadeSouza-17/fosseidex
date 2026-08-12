@@ -1,5 +1,6 @@
 ---
 id: 110
+title: Rhizodus
 name: Rhizodus
 scientificName: Potanichthys hibberti
 origin: Real

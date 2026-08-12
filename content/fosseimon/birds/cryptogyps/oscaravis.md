@@ -1,8 +1,10 @@
 ---
 # id: 0
+title: Oscaravis
 name: Oscaravis
 scientificName: Oscaravis olsoni
-otherName: Teratornis olsoni
+otherNames: 
+ - Teratornis olsoni
 origin: Real
 types:
  - Fly

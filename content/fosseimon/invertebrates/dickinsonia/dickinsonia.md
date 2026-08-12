@@ -1,6 +1,6 @@
 ---
 id: 001
-# title: Dickinsonia
+title: Dickinsonia
 name: Dickinsonia
 scientificName: Dickinsonia costata
 origin: Real

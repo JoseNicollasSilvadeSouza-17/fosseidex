@@ -1,5 +1,6 @@
 ---
 id: 004
+title: Haikouichthys
 name: Haikouichthys
 scientificName: Haikouichthys ercaicunensis
 origin: Real

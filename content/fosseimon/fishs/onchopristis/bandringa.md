@@ -1,5 +1,6 @@
 ---
 # id: 0
+title: Bandringa
 name: Bandringa
 scientificName: Bandringa rayi
 origin: Real

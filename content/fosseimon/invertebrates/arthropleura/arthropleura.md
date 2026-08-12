@@ -1,5 +1,6 @@
 ---
 id: 068
+title: Arthropleura
 name: Arthropleura
 scientificName: Arthropleura armata
 origin: Real

@@ -1,5 +1,6 @@
 ---
 id: 060
+title: Medullosa
 name: Medullosa
 scientificName: Medullosa primaeva
 origin: Real

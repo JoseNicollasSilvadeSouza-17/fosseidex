@@ -1,5 +1,6 @@
 ---
 id: 037
+title: Cotylorhynchus
 name: Cotylorhynchus
 scientificName: Cotylorhynchus romeri
 origin: Real

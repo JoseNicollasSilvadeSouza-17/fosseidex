@@ -1,5 +1,6 @@
 ---
 # id: 0
+title: Gerrothorax
 name: Gerrothorax
 scientificName: Gerrothorax pulcherrimus
 origin: Real
