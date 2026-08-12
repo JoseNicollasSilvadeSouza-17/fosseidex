@@ -1,5 +1,6 @@
 ---
 id: 192
+title: Waimanu
 name: Waimanu
 scientificName: Waimanu manneringi
 origin: Real

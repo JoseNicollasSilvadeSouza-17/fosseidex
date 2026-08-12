@@ -1,12 +1,13 @@
 ---
 id: 054
+title: Argentavis
 name: Argentavis
 scientificName: Argentavis magnificens
 origin: Real
 types:
   - Flying
   - Predator
-status: Draft
+status: in-progress
 ---
 
 # Argentavis

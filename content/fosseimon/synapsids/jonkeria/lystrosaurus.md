@@ -1,5 +1,6 @@
 ---
 id: 035
+title: Lystrosaurus
 name: Lystrosaurus
 scientificName: Lystrosaurus murrayi
 origin: Real

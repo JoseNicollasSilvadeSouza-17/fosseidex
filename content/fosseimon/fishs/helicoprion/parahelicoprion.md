@@ -1,5 +1,6 @@
 ---
 id: 106
+title: Parahelicoprion
 name: Parahelicoprion
 scientificName: Helicoprion clerci
 origin: Real

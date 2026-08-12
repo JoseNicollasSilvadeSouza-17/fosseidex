@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Fosséidex
+  pageTitle: "Fosséidex - Wiki"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -220,7 +220,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: hhttps://github.com/JoseNicollasSilvadeSouza-17/fosseidex
+        GitHub: https://github.com/JoseNicollasSilvadeSouza-17/fosseidex
         Discord Community: https://discordapp.com/users/1360797543251972288
     layout:
       position: footer

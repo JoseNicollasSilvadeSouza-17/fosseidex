@@ -1,5 +1,6 @@
 ---
 id: 020
+title: Diplocaulus
 name: Diplocaulus
 scientificName: Diplocaulus salamandroides
 origin: Real

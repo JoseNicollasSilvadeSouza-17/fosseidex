@@ -1,5 +1,6 @@
 ---
 id: 104
+title: Edestus
 name: Edestus
 scientificName: Edestus vorax
 origin: Real

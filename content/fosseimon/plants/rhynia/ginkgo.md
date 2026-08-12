@@ -1,5 +1,6 @@
 ---
 # id: 0
+title: Ginkgo
 name: Ginkgo
 scientificName: Ginkgo adiantoides
 origin: Real

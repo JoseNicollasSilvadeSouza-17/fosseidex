@@ -1,5 +1,6 @@
 ---
 id: 148
+title: Kraken
 name: Kraken
 scientificName: Nanaimoteuthis haggarti
 origin: Real

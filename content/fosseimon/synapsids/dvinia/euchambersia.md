@@ -1,5 +1,6 @@
 ---
 # id: 0
+title: Euchambersia
 name: Euchambersia
 scientificName: Euchambersia mirabilis
 origin: Real

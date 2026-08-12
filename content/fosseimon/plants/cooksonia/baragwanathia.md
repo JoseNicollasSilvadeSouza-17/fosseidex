@@ -1,5 +1,6 @@
 ---
 # id: 0
+title: Baragwanathia
 name: Baragwanathia
 scientificName: Baragwanathia longifolia
 origin: Real

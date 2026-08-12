@@ -1,6 +1,6 @@
 ---
 id: 002
-# title: Dickinsonia
+title: Tribrachidium
 name: Tribrachidium
 scientificName: Tribrachidium heraldicum
 origin: Real

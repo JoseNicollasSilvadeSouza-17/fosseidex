@@ -1,5 +1,6 @@
 ---
 id: 194
+title: Kumimanu
 name: Kumimanu
 scientificName: Kumimanu biceae
 origin: Real

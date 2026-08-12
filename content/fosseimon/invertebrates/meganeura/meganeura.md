@@ -1,5 +1,6 @@
 ---
 id: 070
+title: Meganeura
 name: Meganeura
 scientificName: Meganeura monyi
 otherNames:

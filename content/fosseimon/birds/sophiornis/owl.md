@@ -1,5 +1,6 @@
 ---
 # id: 0
+title: Cuban Giant Owl
 name: Cuban Giant Owl
 scientificName: Ornimegalonyx oteroi
 origin: Real

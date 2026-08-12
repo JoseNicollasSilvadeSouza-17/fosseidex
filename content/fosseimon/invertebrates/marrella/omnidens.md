@@ -1,5 +1,6 @@
 ---
 id: 114
+title: Omnidens
 name: Omnidens
 scientificName: Omnidens amplus
 origin: Real

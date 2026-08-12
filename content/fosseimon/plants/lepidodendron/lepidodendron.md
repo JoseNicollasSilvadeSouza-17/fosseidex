@@ -1,5 +1,6 @@
 ---
 id: 061
+title: Lepidodendron
 name: Lepidodendron
 scientificName: Lepidodendron dichotomum
 origin: Real

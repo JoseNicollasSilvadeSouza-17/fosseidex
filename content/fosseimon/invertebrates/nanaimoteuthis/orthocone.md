@@ -1,5 +1,6 @@
 ---
 id: 147
+title: Cameroceras
 name: Cameroceras
 scientificName: Cameroceras trentonense
 origin: Real

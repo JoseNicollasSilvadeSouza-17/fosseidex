@@ -1,5 +1,6 @@
 ---
 id: 090
+title: Edaphosaurus
 name: Edaphosaurus
 scientificName: Edaphosaurus pogonias
 origin: Real

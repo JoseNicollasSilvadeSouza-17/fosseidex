@@ -1,5 +1,6 @@
 ---
 id: 005
+title: Doryaspis
 name: Doryaspis
 scientificName: Doryaspis nathorsti
 origin: Real

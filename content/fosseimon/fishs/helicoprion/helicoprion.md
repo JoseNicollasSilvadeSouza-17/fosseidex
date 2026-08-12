@@ -1,5 +1,6 @@
 ---
 id: 105
+title: Helicoprion
 name: Helicoprion
 scientificName: Helicoprion bessonowi
 origin: Real

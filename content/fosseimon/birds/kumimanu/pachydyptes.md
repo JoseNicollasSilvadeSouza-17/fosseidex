@@ -1,5 +1,6 @@
 ---
 id: 193
+title: Pachydyptes
 name: Pachydyptes
 scientificName: Pachydyptes ponderosus
 origin: Real

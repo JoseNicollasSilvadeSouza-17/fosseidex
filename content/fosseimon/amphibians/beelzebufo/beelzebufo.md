@@ -1,5 +1,6 @@
 ---
 id: 089
+title: Beelzebufo
 name: Beelzebufo
 scientificName: Beelzebufo ampinga
 origin: Real

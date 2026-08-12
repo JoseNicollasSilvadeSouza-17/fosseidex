@@ -1,5 +1,6 @@
 ---
 id: 092
+title: Shringasaurus
 name: Shringasaurus
 scientificName: Shringasaurus indicus
 origin: Real

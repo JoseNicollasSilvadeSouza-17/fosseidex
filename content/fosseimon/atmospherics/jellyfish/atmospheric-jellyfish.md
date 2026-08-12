@@ -1,5 +1,6 @@
 ---
 id: 199
+title: Atmospheric Jellyfish
 name: Atmospheric Jellyfish
 scientificName: Atmospheric Jellyfish
 otherNames:

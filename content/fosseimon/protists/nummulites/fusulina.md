@@ -1,5 +1,6 @@
 ---
 id: 097
+title: Fusulina
 name: Fusulina
 scientificName: Fusulina cylindrica
 origin: Real
