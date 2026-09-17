@@ -1,28 +1,38 @@
 ---
-id: 012
-name: Giganotossauro
+id: 006
+title: Giganotosaurus
+name: Giganotosaurus
 scientificName: Giganotosaurus carolinii
 origin: Real
 types:
   - Predator
 skills:
   - Intimidation
-status: Draft
 ---
 
-# Giganotossauro
+# Giganotosaurus `#006`
 
 ## Description
 
 ...
 
-## Types
+## Classification
+
+### Types
 
 - [[predator]]
 
-## Evolution
+### Groups
 
-- Evolui de [[tyrannosaurus]]
+- [[sexes]]
+- [[carnivore]]
+- [[biped]]
+
+## Transformations
+
+### Evolution
+
+[[nanotyrannus]] 🠖 [[t-rex]] 🠖 giganotosaurus ⊕ [[yutyrannus]]
 
 ## Attacks
 

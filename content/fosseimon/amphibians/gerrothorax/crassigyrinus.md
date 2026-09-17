@@ -6,7 +6,7 @@ scientificName: Crassigyrinus scoticus
 origin: Real
 types:
  - Water
-status: Draft
+draft: true
 ---
 
 # Crassigyrinus

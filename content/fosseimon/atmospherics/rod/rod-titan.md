@@ -7,7 +7,9 @@ origin: Fictional
 types:
  - Atmospheric
  - Insect
-status: Draft
+skills:
+ - Flock
+draft: true
 ---
 
 # Rod Titan
@@ -16,6 +18,19 @@ status: Draft
 
 ...
 
-## Evolution
+### Groups
+
+- [[asexuals]]
+
+## Types
+
+- [[atmospheric]]
+- [[insect]]
+
+## Evolutions
 
 - Evolui para [[rod-giga]]
+
+## Skills
+
+- [[flock]]

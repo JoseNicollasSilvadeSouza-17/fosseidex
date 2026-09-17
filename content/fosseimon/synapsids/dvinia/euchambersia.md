@@ -6,7 +6,7 @@ scientificName: Euchambersia mirabilis
 origin: Real
 types:
   - Predator
-status: Draft
+draft: true
 ---
 
 # Euchambersia

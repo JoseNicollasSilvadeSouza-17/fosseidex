@@ -1,11 +1,12 @@
 ---
 # id: 0
+title: Liaoningosaurus
 name: Liaoningosaurus
 scientificName: Liaoningosaurus paradoxus
 origin: Real
 types:
  - Rock
-status: Draft
+draft: true
 ---
 
 # Liaoningosaurus
@@ -14,6 +15,10 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[rock]]
+
+## Evolutions
 
 - Evolui para [[spicomellus]]

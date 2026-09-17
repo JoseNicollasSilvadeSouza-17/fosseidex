@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: pt-BR
+  locale: en-US
   baseUrl: JoseNicollasSilvadeSouza-17.github.io/fosseidex
   ignorePatterns:
     - private
@@ -171,12 +171,12 @@ plugins:
       position: right
       priority: 50
   - source: "@quartz-community/article-title"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 10
   - source: "@quartz-community/content-meta"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 20
@@ -221,6 +221,7 @@ plugins:
     options:
       links:
         GitHub: https://github.com/JoseNicollasSilvadeSouza-17/fosseidex
+        Linkedin: https://www.linkedin.com/in/jos%C3%A9-n%C3%ADcollas-silva-de-souza/
         Discord Community: https://discordapp.com/users/1360797543251972288
     layout:
       position: footer

@@ -7,7 +7,7 @@ origin: Real
 types:
  - Water
  - Rock
-status: Draft
+draft: true
 ---
 
 # Baculites
@@ -16,6 +16,15 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
 
+- [[water]]
+- [[rock]]
+
+## Evolutions
+
+- Evolui de [[didymoceras]]
+- Evolui de [[diplomoceras]]
+- Evolui de [[nipponites]]
+- Evolui de [[proteroctopus]]
 - Evolui para [[tusoteuthis]]

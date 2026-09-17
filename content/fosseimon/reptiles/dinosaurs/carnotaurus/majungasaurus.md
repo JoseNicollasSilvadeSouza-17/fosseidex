@@ -5,7 +5,7 @@ scientificName: Majungasaurus crenatissimus
 origin: Real
 types:
   - Predator
-status: Draft
+draft: true
 ---
 
 # Majungasaurus

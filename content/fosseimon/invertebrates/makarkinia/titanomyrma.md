@@ -1,5 +1,5 @@
 ---
-id: 065
+id: 019
 title: Titanomyrma
 name: Titanomyrma
 scientificName: Titanomyrma lubei
@@ -7,25 +7,39 @@ origin: Real
 types:
   - Insect
   - Flying
-status: Draft
+skills:
+ - Flock
 ---
 
-# Titanomyrma
+# Titanomyrma `#019`
 
 ## Description
 
 ...
 
-## Types
+## Classification
+
+### Types
 
 - [[insect]]
 - [[flying]]
 
-## Evolutions
+### Groups
 
-- Evolui para [[mazothairos]]
+- [[sexes]]
+- [[quadruped]]
+
+## Transformations
+
+### Evolution
+
+titanomyrma 🠖 [[mazothairos]] 🠖 [[makarkinia]]
 
 ## Attacks
 
 - [[perseverance]]
 - [[hope]]
+
+## Skills
+
+- [[flock]]

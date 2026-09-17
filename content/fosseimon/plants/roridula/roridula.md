@@ -6,7 +6,7 @@ scientificName: Roridula
 origin: Speculative
 types:
  - Flora
-status: Draft
+draft: true
 ---
 
 # Roridula Ancestral

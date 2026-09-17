@@ -1,5 +1,5 @@
 ---
-id: 109
+id: 129
 title: Potanichthys
 name: Potanichthys
 scientificName: Potanichthys xingyiensis
@@ -7,27 +7,50 @@ origin: Real
 types:
   - Water
   - Flying
-status: Draft
 ---
 
-# Potanichthys
+# Potanichthys `#129`
 
 ## Description
 
 ...
 
-## Types
+Origin: [[real]]
+
+Height: [[h-small]]
+
+Weight: [[w-small]]
+
+## Classification
+
+### Types
 
 - [[water]]
 - [[flying]]
 
-## Evolutions
+### Groups
 
-- Evolui para [[rhizodus]]
+- [[sexes]]
+- [[carnivore]]
+- [[limbless]]
+
+## Transformations
+
+### Evolution
+
+potanichthys 🠖 [[rhizodus]] 🠖 [[dunkleosteus]]
 
 ## Attacks
 
 - [[perseverance]]
 - [[hope]]
 - [[surfing]]
+- [[water-jet]]
 - [[fly]]
+- [[rocket]]
+- [[agility]]
+- [[collision]]
+- [[induration]]
+- [[disable]]
+- [[eyeshadow]]
+- [[swift-attack]]

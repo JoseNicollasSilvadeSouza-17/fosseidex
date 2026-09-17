@@ -6,8 +6,8 @@ scientificName: Tusoteuthis longa
 origin: Real
 types:
  - Water
- - Rock
-status: Draft
+ - Predator
+draft: true
 ---
 
 # Tusoteuthis
@@ -16,6 +16,11 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[water]]
+- [[predator]]
+
+## Evolutions
 
 - Evolui de [[baculites]]

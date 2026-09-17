@@ -1,5 +1,6 @@
 ---
-id: 013
+id: 007
+title: Yutyrannus
 name: Yutyrannus
 scientificName: Yutyrannus huali
 origin: Real
@@ -9,23 +10,32 @@ types:
 skills:
   - Intimidation
   - Freezing
-status: Draft
 ---
 
-# Yutyrannus
+# Yutyrannus `#007`
 
 ## Description
 
 ...
 
-## Types
+## Classification
+
+### Types
 
 - [[predator]]
 - [[ice]]
 
-## Evolution
+### Groups
 
-- Evolui de [[tyrannosaurus]]
+- [[sexes]]
+- [[carnivore]]
+- [[biped]]
+
+## Transformations
+
+### Evolution
+
+[[nanotyrannus]] 🠖 [[t-rex]] 🠖 [[giganotosaurus]] ⊕ yutyrannus
 
 ## Attacks
 
@@ -36,4 +46,4 @@ status: Draft
 ## Skills
 
 - [[intimidation]]
-- [[frezzing]]
+- [[freezing]]

@@ -5,7 +5,7 @@ scientificName: Saniwa ensidens
 origin: Real
 types:
   - Dragon
-status: Draft
+draft: true
 ---
 
 # Saniwa

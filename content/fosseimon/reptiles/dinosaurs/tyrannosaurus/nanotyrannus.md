@@ -1,27 +1,37 @@
 ---
-id: 010
+id: 004
+title: Nanotyrannus
 name: Nanotyrannus
 scientificNames:
   - Nanotyrannus lancensis
 origin: Real
 types:
   - Predator
-status: Draft
 ---
 
-# Nanotyrannus
+# Nanotyrannus `#004`
 
 ## Description
 
 ...
 
-## Types
+## Classification
+
+### Types
 
 - [[predator]]
 
+### Groups
+
+- [[sexes]]
+- [[carnivore]]
+- [[biped]]
+
+## Transformations
+
 ## Evolution
 
-- Evolui para [[tyrannosaurus]]
+nanotyrannus 🠖 [[t-rex]] 🠖 [[giganotosaurus]] ⊕ [[yutyrannus]]
 
 ## Attacks
 

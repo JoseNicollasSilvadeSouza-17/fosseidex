@@ -6,7 +6,7 @@ scientificName: Bandringa rayi
 origin: Real
 types:
  - Water
-status: Draft
+draft: true
 ---
 
 # Bandringa

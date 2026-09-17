@@ -1,11 +1,12 @@
 ---
-# id: 125
+# id: 0
+title: Spinofaarus
 name: Spinofaarus
 scientificName: Spinofaarus vulgari
 origin: Fictional
 types:
  - Water
-status: Draft
+draft: true
 ---
 
 # Spinofaarus
@@ -14,6 +15,6 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
 
-- Evolui para [[spike]]
+- [[water]]

@@ -6,7 +6,7 @@ scientificName: Rhynia gwynne-vaughanii
 origin: Real
 types:
  - Flora
-status: Draft
+draft: true
 ---
 
 # Rhynia

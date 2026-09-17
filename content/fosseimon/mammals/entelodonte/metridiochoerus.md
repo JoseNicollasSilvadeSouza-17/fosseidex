@@ -1,28 +1,53 @@
 ---
-id: 160
+id: 158
+title: Metridiochoerus
 name: Metridiochoerus
 scientificName: Metridiochoerus andrewsi
 origin: Real
 types:
   - Normal
-status: Draft
 ---
 
-# Metridiochoerus
+# Metridiochoerus `#158`
 
 ## Description
 
 ...
 
-## Types
+Origin: [[real]]
+
+Height: [[h-small]]
+
+Weight: [[w-small]]
+
+## Classification
+
+### Types
 
 - [[normal]]
 
-## Evolutions
+### Groups
 
-- Evolui para [[entelodon]]
+- [[sexes]]
+- [[omnivore]]
+- [[quadruped]]
+
+## transformations
+
+### Evolution
+
+metridiochoerus 🠖 [[entelodon]]
 
 ## Attacks
 
 - [[perseverance]]
 - [[hope]]
+- [[collision]]
+- [[swift-attack]]
+- [[fling]]
+- [[fart]]
+- [[darkish]]
+- [[agility]]
+- [[induration]]
+- [[bite]]
+- [[protection]]

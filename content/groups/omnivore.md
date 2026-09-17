@@ -1,0 +1,5 @@
+---
+title: Omnivore
+---
+
+# Omnivore

@@ -7,7 +7,7 @@ origin: Real
 types:
   - Predator
   - Poison
-status: Draft
+draft: true
 ---
 
 # Inostrancevia

@@ -1,11 +1,12 @@
 ---
 # id: 0
+title: Spicomellus
 name: Spicomellus
 scientificName: Spicomellus afer
 origin: Real
 types:
  - Rock
-status: Draft
+draft: true
 ---
 
 # Spicomellus
@@ -14,6 +15,10 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[rock]]
+
+## Evolutions
 
 - Evolui de [[liaoningosaurus]]

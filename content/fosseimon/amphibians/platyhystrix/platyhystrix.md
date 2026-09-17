@@ -8,7 +8,7 @@ otherNames:
 origin: Real
 types:
  - Water
-status: Draft
+draft: true
 ---
 
 # Platyhystrix

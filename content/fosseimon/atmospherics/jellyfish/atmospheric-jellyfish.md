@@ -10,20 +10,45 @@ origin: Fictional
 types:
   - Atmospheric
   - Water
-status: Draft
 ---
 
-# Atmospheric Jellyfish
+# Atmospheric Jellyfish `#199`
 
 ## Description
 
+### Real life
+
 ...
 
-## Types
+### Fosséimon
+
+...
+
+Origin: [[fictional]]
+
+Height: [[h-small]]
+
+Weight: [[w-tiny]]
+
+## Classification
+
+### Types
 
 - [[atmospheric]]
+- [[water]]
 
 ## Attacks
 
 - [[perseverance]]
 - [[hope]]
+- [[gas]]
+- [[collision]]
+- [[induration]]
+- [[rocket]]
+- [[evora-rain]]
+- [[avalanche]]
+- [[mystery]]
+- [[gleam]]
+- [[mimicry]]
+- [[moon]]
+- [[agility]]

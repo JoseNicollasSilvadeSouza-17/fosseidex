@@ -1,7 +1,7 @@
 ---
 # id: 0
 name: Naraboryctes
-scientificName: Naraboryctes
+scientificName: Naraboryctes philcreaseri
 origin: Real
 types:
  - Earth
@@ -13,3 +13,7 @@ status: Draft
 ## Description
 
 ...
+
+### Groups
+
+- [[sexes]]

@@ -6,7 +6,7 @@ scientificName: Funcusvermis gilmorei
 origin: Real
 types:
  - Water
-status: Draft
+draft: true
 ---
 
 # Funcusvermis
