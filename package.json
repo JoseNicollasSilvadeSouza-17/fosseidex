@@ -1,6 +1,6 @@
 {
   "name": "@josenicollassilvadesouza/fosseidex",
-  "description": "",
+  "description": "Documentation for the Fosséidex project, featuring a theme centered on prehistoric life",
   "private": true,
   "version": "1.0.0-alpha",
   "type": "module",
@@ -9,13 +9,13 @@
     "email": "josenicollassilvadesouza@gmail.com"
   },
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://josenicollassilvadesouza-17.github.io/fosseidex/",
   "repository": {
     "type": "git",
     "url": "https://github.com/JoseNicollasSilvadeSouza-17/fosseidex.git"
   },
   "scripts": {
-    "quartz": "./quartz/bootstrap-cli.mjs",
+    "quartz": "node ./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
@@ -32,10 +32,11 @@
   "keywords": [
     "site generator",
     "ssg",
-    "digital-garden",
     "markdown",
-    "blog",
-    "quartz"
+    "quartz",
+    "Fosséidex",
+    "Mon",
+    "Prehistoric"
   ],
   "bin": {
     "quartz": "./quartz/bootstrap-cli.mjs"
@@ -63,7 +64,7 @@
     "@quartz-community/description": "^0.1.0",
     "@quartz-community/encrypted-pages": "^0.1.0",
     "@quartz-community/explicit-publish": "^0.1.0",
-    "@quartz-community/explorer": "github:quartz-community/explorer",
+    "@quartz-community/explorer": "^1.0.0",
     "@quartz-community/favicon": "^0.1.1",
     "@quartz-community/folder-page": "^0.1.0",
     "@quartz-community/footer": "^0.1.0",
