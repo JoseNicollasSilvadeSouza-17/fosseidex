@@ -9,20 +9,21 @@ otherNames:
 origin: Fictional
 types:
   - Atmospheric
-  - Water
 ---
 
 # Atmospheric Jellyfish `#199`
+
+![Atmospheric Jellyfish](../../../assets/atmospheric-jellyfish.png)
 
 ## Description
 
 ### Real life
 
-...
+The **Atmospheric Jellyfish** is a hypothetical flying jellyfish that inhabits the atmosphere; it is classified within cryptozoology as a type of "atmospheric beast" and is also considered a form of **UFO**. For more information, see the [Atmospheric Jellyfish | Cryptid Wiki | Fandom](https://cryptidz.fandom.com/wiki/Atmospheric_Jellyfish?file=Petrosavodsk_Jellyfish.jpg).
 
 ### Fosséimon
 
-...
+The **Atmospheric Jellyfish** is an extremely rare Fosséimon, as it inhabits an unusual environment (ranging from the upper troposphere to the stratosphere) and possesses a translucent or transparent body. Its favorite food is _Air Rods_.
 
 Origin: [[fictional]]
 
@@ -35,7 +36,6 @@ Weight: [[w-tiny]]
 ### Types
 
 - [[atmospheric]]
-- [[water]]
 
 ## Attacks
 
