@@ -6,7 +6,7 @@ origin: Real
 types:
   - Predator
   - Rock
-status: Draft
+draft: true
 ---
 
 # Carnotaurus

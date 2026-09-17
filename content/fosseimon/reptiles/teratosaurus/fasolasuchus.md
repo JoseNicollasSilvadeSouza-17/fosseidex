@@ -5,7 +5,7 @@ scientificName: Fasolasuchus tenax
 origin: Real
 types:
  - Predator
-status: Draft
+draft: true
 ---
 
 # Fasolasuchus

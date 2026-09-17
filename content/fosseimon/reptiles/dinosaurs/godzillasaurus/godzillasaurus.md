@@ -6,7 +6,7 @@ origin: Fictional
 types:
   - Dragon
   - Water
-status: Draft
+draft: true
 ---
 
 # Gojira

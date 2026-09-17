@@ -6,7 +6,7 @@ scientificName: Ourasphaira giraldae
 origin: Real
 types:
  - Flora
-status: Draft
+draft: true
 ---
 
 # Ourasphaira

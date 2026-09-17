@@ -7,7 +7,7 @@ origin: Real
 types:
   - Fly
   - Normal
-status: Draft
+draft: true
 ---
 
 # Sharovipteryx

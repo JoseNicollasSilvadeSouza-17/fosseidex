@@ -7,7 +7,7 @@ origin: Real
 types:
  - Rock
  - Water
-status: Draft
+draft: true
 ---
 
 # Chuaria
@@ -16,6 +16,11 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[rock]]
+- [[water]]
+
+## Evolutions
 
 - Evolui para [[margaretia]]

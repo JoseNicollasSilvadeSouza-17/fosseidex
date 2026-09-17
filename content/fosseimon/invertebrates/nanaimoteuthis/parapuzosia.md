@@ -1,5 +1,5 @@
 ---
-id: 146
+id: 188
 title: Parapuzosia
 name: Parapuzosia
 scientificName: Parapuzosia seppenradensis
@@ -7,25 +7,65 @@ origin: Real
 types:
   - Water
   - Rock
-status: Draft
+skills:
+ - Weak Armor
 ---
 
-# Parapuzosia
+# Parapuzosia `#188`
 
 ## Description
 
+### Real life
+
 ...
 
-## Types
+### Fosséimon
+
+...
+
+Origin: [[real]]
+
+Height: [[h-small]]
+
+Weight: [[w-middle]]
+
+## Classification
+
+### Types
 
 - [[water]]
 - [[rock]]
 
-## Evolutions
+### Groups
 
-- Evolui para [[orthocone]]
+- [[sexes]]
+- [[carnivore]]
+
+## Transformations
+
+### Evolution
+
+parapuzosia 🠖 [[orthocone]] 🠖 [[kraken]]
 
 ## Attacks
 
 - [[perseverance]]
 - [[hope]]
+- [[waterfall]]
+- [[water-jet]]
+- [[protection]]
+- [[agility]]
+- [[collision]]
+- [[swift-attack]]
+- [[shield]]
+- [[induration]]
+- [[mimicry]]
+- [[peck]]
+- [[beautiful]]
+- [[disable]]
+- [[eyeshadow]]
+- [[crushing]]
+
+## Skills
+
+- [[weak-armor]]

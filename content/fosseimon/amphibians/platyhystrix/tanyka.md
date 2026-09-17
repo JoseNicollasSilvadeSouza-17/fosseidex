@@ -7,7 +7,7 @@ origin: Real
 types:
  - Water
  - Predator
-status: Draft
+draft: true
 ---
 
 # Tanyka

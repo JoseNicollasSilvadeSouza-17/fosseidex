@@ -5,7 +5,7 @@ scientificName: Gojirasaurus quayi
 origin: Real
 types:
   - Predator
-status: Draft
+draft: true
 ---
 
 # Gojirasaurus

@@ -7,7 +7,7 @@ origin: Real
 types:
  - Water
  - Metal
-status: Draft
+draft: true
 ---
 
 # Onchopristis

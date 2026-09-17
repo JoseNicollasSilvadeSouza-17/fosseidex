@@ -6,7 +6,7 @@ scientificName: Ginkgo adiantoides
 origin: Real
 types:
  - Flora
-status: Draft
+draft: true
 ---
 
 # Ginkgo

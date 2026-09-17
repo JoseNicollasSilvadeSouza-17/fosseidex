@@ -1,8 +1,14 @@
+---
+title: Fosséidex
+---
+
 # Fosséidex
 
 - [Fosséimons](fosseimon/)
-- [Ataques](attacks/)
-- [Habilidades](skills/)
-- [Grupos](groups/)
-- [Itens](items/)
-- [Tipos](types/)
+- [Attacks](attacks/)
+- [Skills](skills/)
+- [States](states/)
+- [Groups](groups/)
+- [Items](items/)
+- [Types](types/)
+- [Utils](utils/)

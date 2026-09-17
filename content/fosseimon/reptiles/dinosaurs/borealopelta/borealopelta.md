@@ -5,7 +5,7 @@ scientificName: Borealopelta markmitchelli
 origin: Real
 types:
  - Rock
-status: Draft
+draft: true
 ---
 
 # Borealopelta

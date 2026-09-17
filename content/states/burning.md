@@ -1,0 +1,5 @@
+---
+title: Burning
+---
+
+# Burning

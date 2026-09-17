@@ -6,7 +6,7 @@ scientificName: Gerrothorax pulcherrimus
 origin: Real
 types:
  - Water
-status: Draft
+draft: true
 ---
 
 # Gerrothorax

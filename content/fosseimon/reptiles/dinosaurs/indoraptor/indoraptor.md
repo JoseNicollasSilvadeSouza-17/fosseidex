@@ -1,5 +1,6 @@
 ---
 # id: 0
+title: Indoraptor
 name: Indoraptor
 scientificName: Indoraptor
 origin: Fictional
@@ -7,7 +8,7 @@ types:
  - Predator
  - Dark
 isAmalgam: true
-status: Draft
+draft: true
 ---
 
 # Indoraptor
@@ -16,6 +17,11 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[predator]]
+- [[dark]]
+
+## Evolutions
 
 - Evolui para [[indoraptor-gen2]]

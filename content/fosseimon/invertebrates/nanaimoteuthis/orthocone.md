@@ -1,5 +1,5 @@
 ---
-id: 147
+id: 189
 title: Cameroceras
 name: Cameroceras
 scientificName: Cameroceras trentonense
@@ -7,27 +7,76 @@ origin: Real
 types:
   - Water
   - Rock
-status: Draft
+skills:
+ - Weak Armor
 ---
 
-# Cameroceras
+# Cameroceras `#189`
 
 ## Description
 
+### Real life
+
 ...
 
-## Types
+### Fosséimon
+
+...
+
+Origin: [[real]]
+
+Height: [[h-middle]]
+
+Weight: [[w-high]]
+
+## Classification
+
+### Types
 
 - [[water]]
 - [[rock]]
 
-## Evolutions
+### Groups
 
-- Evolui de [[parapuzosia]]
-- Evolui para [[nanaimoteuthis]]
+- [[sexes]]
+- [[carnivore]]
+
+## Transformations
+
+### Evolution
+
+[[parapuzosia]] 🠖 orthocone 🠖 [[kraken]]
 
 ## Attacks
 
 - [[perseverance]]
 - [[hope]]
+- [[waterfall]]
+- [[water-jet]]
+- [[protection]]
+- [[agility]]
+- [[collision]]
+- [[swift-attack]]
+- [[shield]]
+- [[induration]]
+- [[mimicry]]
+- [[poison-fang]]
+- [[peck]]
+- [[beautiful]]
+- [[disable]]
+- [[crushing]]
+- [[eyeshadow]]
+- [[crushing-bite]]
+- [[acidity]]
+- [[toxic]]
+- [[gas]]
 - [[surfing]]
+- [[drilling]]
+- [[continuous-attacks]]
+- [[ice-fang]]
+- [[fencing]]
+- [[goldification]]
+
+## Skills
+
+- [[weak-armor]]

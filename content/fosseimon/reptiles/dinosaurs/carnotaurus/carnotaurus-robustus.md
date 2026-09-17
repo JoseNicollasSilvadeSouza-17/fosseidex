@@ -6,7 +6,7 @@ origin: Fictional
 types:
   - Predator
   - Rock
-status: Draft
+draft: true
 ---
 
 # Carnotaurus robustus

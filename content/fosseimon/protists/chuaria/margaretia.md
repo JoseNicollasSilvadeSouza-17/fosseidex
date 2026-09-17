@@ -7,7 +7,7 @@ origin: Real
 types:
  - Rock
  - Water
-status: Draft
+draft: true
 ---
 
 # Gondwanagaricites
@@ -16,7 +16,12 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[rock]]
+- [[water]]
+
+## Evolutions
 
 - Evolui de [[chuaria]]
 - Evolui para [[parka]]

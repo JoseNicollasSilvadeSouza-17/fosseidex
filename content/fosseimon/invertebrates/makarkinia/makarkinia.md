@@ -1,5 +1,5 @@
 ---
-id: 067
+id: 021
 title: Makarkinia
 name: Makarkinia
 scientificName: Makarkinia adamsi
@@ -7,25 +7,34 @@ origin: Real
 types:
   - Insect
   - Flying
-status: Draft
 ---
 
-# Makarkinia
+# Makarkinia `#021`
 
 ## Description
 
 ...
 
-## Types
+## Classification
+
+### Types
 
 - [[insect]]
 - [[flying]]
 
-## Evolutions
+### Groups
 
-- Evolui de [[mazothairos]]
+- [[sexes]]
+- [[quadruped]]
+
+## Transformations
+
+### Evolution
+
+[[titanomyrma]] 🠖 [[mazothairos]] 🠖 makarkinia
 
 ## Attacks
 
 - [[perseverance]]
 - [[hope]]
+- [[fly]]

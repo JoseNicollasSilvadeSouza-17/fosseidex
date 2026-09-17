@@ -6,7 +6,7 @@ origin: Real
 types:
   - Dragon
   - Poison
-status: Draft
+draft: true
 ---
 
 # Dragão-de-Komodo

@@ -7,7 +7,7 @@ origin: Real
 types:
  - Flora
  - Water
-status: Draft
+draft: true
 ---
 
 # Parka
@@ -16,6 +16,11 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[flora]]
+- [[rock]]
+
+## Evolutions
 
 - Evolui de [[margaretia]]

@@ -1,5 +1,5 @@
 ---
-id: 066
+id: 020
 title: Mazothairos
 name: Mazothairos
 scientificName: Mazothairos enormis
@@ -7,26 +7,34 @@ origin: Real
 types:
   - Insect
   - Flying
-status: Draft
 ---
 
-# Mazothairos
+# Mazothairos `#020`
 
 ## Description
 
 ...
 
-## Types
+## Classification
+
+### Types
 
 - [[insect]]
 - [[flying]]
 
-## Evolutions
+### Groups
 
-- Evolui de [[titanomyrma]]
-- Evolui para [[makarkinia]]
+- [[sexes]]
+- [[quadruped]]
+
+## Transformations
+
+### Evolution
+
+[[titanomyrma]] 🠖 mazothairos 🠖 [[makarkinia]]
 
 ## Attacks
 
 - [[perseverance]]
 - [[hope]]
+- [[fly]]

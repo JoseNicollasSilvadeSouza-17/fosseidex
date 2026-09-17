@@ -6,7 +6,7 @@ scientificName: Gondwanagaricites magnificus
 origin: Real
 types:
  - Flora
-status: Draft
+draft: true
 ---
 
 # Gondwanagaricites

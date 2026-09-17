@@ -6,7 +6,7 @@ scientificName: Tempskya pulchra
 origin: Real
 types:
  - Flora
-status: Draft
+draft: true
 ---
 
 # Tempskya

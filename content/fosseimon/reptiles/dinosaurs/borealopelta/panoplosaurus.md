@@ -5,7 +5,7 @@ scientificName: Panoplosaurus mirus
 origin: Real
 types:
  - Rock
-status: Draft
+draft: true
 ---
 
 # Panoplosaurus

@@ -1,0 +1,5 @@
+---
+title: Lycanthropy
+---
+
+# Lycanthropy

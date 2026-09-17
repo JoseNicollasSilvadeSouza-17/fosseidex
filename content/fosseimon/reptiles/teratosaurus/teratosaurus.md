@@ -5,7 +5,7 @@ scientificName: Teratosaurus suevicus
 origin: Real
 types:
  - Predator
-status: Draft
+draft: true
 ---
 
 # Teratosaurus

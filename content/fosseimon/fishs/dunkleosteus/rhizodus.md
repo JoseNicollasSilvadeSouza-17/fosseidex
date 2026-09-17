@@ -1,33 +1,60 @@
 ---
-id: 110
+id: 130
 title: Rhizodus
 name: Rhizodus
-scientificName: Potanichthys hibberti
+scientificName: Rhizodus hibberti
 origin: Real
 types:
   - Water
   - Predator
-status: Draft
 ---
 
-# Rhizodus
+# Rhizodus `#130`
 
 ## Description
 
 ...
 
-## Types
+Origin: [[real]]
+
+Height: [[h-small]]
+
+Weight: [[w-middle]]
+
+## Classification
+
+### Types
 
 - [[water]]
 - [[predator]]
 
-## Evolutions
+### Groups
 
-- Evolui de [[potanichthys]]
-- Evolui para [[dunkleosteus]]
+- [[sexes]]
+- [[carnivore]]
+- [[limbless]]
+
+## Transformations
+
+### Evolution
+
+[[potanichthys]] 🠖 rhizodus 🠖 [[dunkleosteus]]
 
 ## Attacks
 
 - [[perseverance]]
 - [[hope]]
 - [[surfing]]
+- [[water-jet]]
+- [[bite]]
+- [[agility]]
+- [[collision]]
+- [[induration]]
+- [[disable]]
+- [[eyeshadow]]
+- [[swift-attack]]
+- [[fishing]]
+- [[ice-ball]]
+- [[crushing-bite]]
+- [[fissure]]
+- [[ice-fang]]

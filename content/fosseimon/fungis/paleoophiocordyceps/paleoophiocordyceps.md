@@ -6,7 +6,7 @@ scientificName: Paleoophiocordyceps coccophagus
 origin: Real
 types:
  - Flora
-status: Draft
+draft: true
 ---
 
 # Paleoophiocordyceps

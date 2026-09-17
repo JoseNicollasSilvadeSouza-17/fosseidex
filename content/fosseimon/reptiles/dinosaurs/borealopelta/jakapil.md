@@ -5,7 +5,7 @@ scientificName: Jakapil kaniukura
 origin: Real
 types:
  - Rock
-status: Draft
+draft: true
 ---
 
 # Jakapil

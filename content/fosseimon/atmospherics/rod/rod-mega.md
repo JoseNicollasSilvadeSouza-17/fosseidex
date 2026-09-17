@@ -7,7 +7,7 @@ origin: Fictional
 types:
  - Atmospheric
  - Insect
-status: Draft
+draft: true
 ---
 
 # Rod Titan
@@ -16,6 +16,11 @@ status: Draft
 
 ...
 
-## Evolution
+## Types
+
+- [[atmospheric]]
+- [[insect]]
+
+## Evolutions
 
 - Evolui de [[rod-giga]]
